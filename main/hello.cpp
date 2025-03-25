@@ -7,6 +7,6 @@ int main(void) {
   cout << "Hello, Jenkins\n";
   cout << "I have successfully built and run this  \n";
   cout << "Modified Statement ..........................................AGAIN\n";
-  COUT << "New Statement\n";
+  cout << "New Statement\n";
   return 0;
 }
